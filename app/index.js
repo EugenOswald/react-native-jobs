@@ -25,7 +25,7 @@ const Home = () => {
 					<Welcome />
 					<Popularjobs />
 					<Nearbyjobs />
-					<Text>https://www.youtube.com/watch?v=mJ3bGvy0WAY 43:20</Text>
+					<Text></Text>
 				</View>
 			</ScrollView>
 		</SafeAreaView>
